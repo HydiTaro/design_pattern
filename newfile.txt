@@ -1,0 +1,5 @@
+#Written bt FileProperties
+#Sat May 04 14:30:58 JST 2024
+depth=32
+width=1024
+height=512

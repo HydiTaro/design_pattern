@@ -1,0 +1,57 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Observer.Main",
+      "projectName": "design_pattern_800a4657"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Adapter.Adapter_rensyu.Main",
+      "projectName": "design_pattern_800a4657"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Singleton.Main",
+      "projectName": "design_pattern_800a4657"
+    },
+    {
+      "type": "java",
+      "name": "RensyuMain",
+      "request": "launch",
+      "mainClass": "Strategy.RensyuMain",
+      "projectName": "design_pattern_800a4657"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Factory_Method.Main",
+      "projectName": "design_pattern_800a4657"
+    },
+    {
+      "type": "java",
+      "name": "Main(1)",
+      "request": "launch",
+      "mainClass": "Strategy.Main",
+      "projectName": "design_pattern_800a4657",
+      "args": "314 15"
+    }
+  ]
+}
